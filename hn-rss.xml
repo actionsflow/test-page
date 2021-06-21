@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News: Newest</title><link>https://news.ycombinator.com/newest</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v1.1-9-ge3a2bf8</generator><lastBuildDate>Mon, 21 Jun 2021 21:11:20 +0000</lastBuildDate><atom:link href="https://hnrss.org/newest?points=300" rel="self" type="application/rss+xml"></atom:link><item><title><![CDATA[What it's like to be cancelled]]></title><description><![CDATA[
+<p>Article URL: <a href="https://noahbradley.com/cancelled/">https://noahbradley.com/cancelled/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27581532">https://news.ycombinator.com/item?id=27581532</a></p>
+<p>Points: 315</p>
+<p># Comments: 384</p>
+]]></description><pubDate>Mon, 21 Jun 2021 17:39:23 +0000</pubDate><link>https://noahbradley.com/cancelled/</link><dc:creator>noahbradley</dc:creator><comments>https://news.ycombinator.com/item?id=27581532</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27581532</guid></item><item><title><![CDATA[Git undo: We can do better]]></title><description><![CDATA[
+<p>Article URL: <a href="https://blog.waleedkhan.name/git-undo/">https://blog.waleedkhan.name/git-undo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27579701">https://news.ycombinator.com/item?id=27579701</a></p>
+<p>Points: 455</p>
+<p># Comments: 288</p>
+]]></description><pubDate>Mon, 21 Jun 2021 14:49:17 +0000</pubDate><link>https://blog.waleedkhan.name/git-undo/</link><dc:creator>arxanas</dc:creator><comments>https://news.ycombinator.com/item?id=27579701</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27579701</guid></item><item><title><![CDATA[Ask HN: I was hit with a patent troll lawsuit, how do I deal with it?]]></title><description><![CDATA[
+<p>This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...<p>I'm a one person company and have no idea what to do.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27579693">https://news.ycombinator.com/item?id=27579693</a></p>
+<p>Points: 564</p>
+<p># Comments: 220</p>
+]]></description><pubDate>Mon, 21 Jun 2021 14:48:27 +0000</pubDate><link>https://news.ycombinator.com/item?id=27579693</link><dc:creator>jblake</dc:creator><comments>https://news.ycombinator.com/item?id=27579693</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27579693</guid></item><item><title><![CDATA[LibreCellular]]></title><description><![CDATA[
+<p>Article URL: <a href="https://librecellular.org/">https://librecellular.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27577525">https://news.ycombinator.com/item?id=27577525</a></p>
+<p>Points: 305</p>
+<p># Comments: 42</p>
+]]></description><pubDate>Mon, 21 Jun 2021 09:15:42 +0000</pubDate><link>https://librecellular.org/</link><dc:creator>pabs3</dc:creator><comments>https://news.ycombinator.com/item?id=27577525</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27577525</guid></item><item><title><![CDATA[Fluid Paint]]></title><description><![CDATA[
+<p>Article URL: <a href="https://david.li/paint/">https://david.li/paint/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27577460">https://news.ycombinator.com/item?id=27577460</a></p>
+<p>Points: 461</p>
+<p># Comments: 55</p>
+]]></description><pubDate>Mon, 21 Jun 2021 08:59:35 +0000</pubDate><link>https://david.li/paint/</link><dc:creator>pjerem</dc:creator><comments>https://news.ycombinator.com/item?id=27577460</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27577460</guid></item><item><title><![CDATA[JPEG XL]]></title><description><![CDATA[
+<p>Article URL: <a href="https://jpegxl.info">https://jpegxl.info</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27577328">https://news.ycombinator.com/item?id=27577328</a></p>
+<p>Points: 329</p>
+<p># Comments: 192</p>
+]]></description><pubDate>Mon, 21 Jun 2021 08:29:34 +0000</pubDate><link>https://jpegxl.info</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=27577328</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27577328</guid></item><item><title><![CDATA[Yggdrasil – Early-stage implementation of an end-to-end encrypted IPv6 network]]></title><description><![CDATA[
+<p>Article URL: <a href="https://github.com/yggdrasil-network/yggdrasil-go">https://github.com/yggdrasil-network/yggdrasil-go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27577201">https://news.ycombinator.com/item?id=27577201</a></p>
+<p>Points: 390</p>
+<p># Comments: 91</p>
+]]></description><pubDate>Mon, 21 Jun 2021 08:02:48 +0000</pubDate><link>https://github.com/yggdrasil-network/yggdrasil-go</link><dc:creator>dragonsh</dc:creator><comments>https://news.ycombinator.com/item?id=27577201</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27577201</guid></item><item><title><![CDATA[OrganicMaps is Android and iOS offline maps for travel without trackers or ads]]></title><description><![CDATA[
+<p>Article URL: <a href="https://organicmaps.app/">https://organicmaps.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27576882">https://news.ycombinator.com/item?id=27576882</a></p>
+<p>Points: 315</p>
+<p># Comments: 104</p>
+]]></description><pubDate>Mon, 21 Jun 2021 06:42:29 +0000</pubDate><link>https://organicmaps.app/</link><dc:creator>wertik13</dc:creator><comments>https://news.ycombinator.com/item?id=27576882</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27576882</guid></item><item><title><![CDATA[USC professor’s DIY online teaching hack to engage students goes viral (2020)]]></title><description><![CDATA[
+<p>Article URL: <a href="https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/">https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27575635">https://news.ycombinator.com/item?id=27575635</a></p>
+<p>Points: 412</p>
+<p># Comments: 79</p>
+]]></description><pubDate>Mon, 21 Jun 2021 02:16:45 +0000</pubDate><link>https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/</link><dc:creator>grzm</dc:creator><comments>https://news.ycombinator.com/item?id=27575635</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27575635</guid></item><item><title><![CDATA[Japan's government plans to encourage 4-day workweek, but experts split]]></title><description><![CDATA[
+<p>Article URL: <a href="https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c">https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27575580">https://news.ycombinator.com/item?id=27575580</a></p>
+<p>Points: 846</p>
+<p># Comments: 467</p>
+]]></description><pubDate>Mon, 21 Jun 2021 02:03:25 +0000</pubDate><link>https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c</link><dc:creator>m3at</dc:creator><comments>https://news.ycombinator.com/item?id=27575580</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27575580</guid></item><item><title><![CDATA[Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible]]></title><description><![CDATA[
+<p>Article URL: <a href="https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723">https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27573393">https://news.ycombinator.com/item?id=27573393</a></p>
+<p>Points: 730</p>
+<p># Comments: 209</p>
+]]></description><pubDate>Sun, 20 Jun 2021 20:01:48 +0000</pubDate><link>https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=27573393</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27573393</guid></item><item><title><![CDATA[A dwarf planet coming within 11 AU of the sun over the next 10 years]]></title><description><![CDATA[
+<p>Article URL: <a href="https://groups.io/g/mpml/topic/83645454#36493">https://groups.io/g/mpml/topic/83645454#36493</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27572746">https://news.ycombinator.com/item?id=27572746</a></p>
+<p>Points: 605</p>
+<p># Comments: 297</p>
+]]></description><pubDate>Sun, 20 Jun 2021 18:39:04 +0000</pubDate><link>https://groups.io/g/mpml/topic/83645454#36493</link><dc:creator>MKais</dc:creator><comments>https://news.ycombinator.com/item?id=27572746</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27572746</guid></item><item><title><![CDATA[What every programmer should know about SSDs]]></title><description><![CDATA[
+<p>Article URL: <a href="https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html">https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27572218">https://news.ycombinator.com/item?id=27572218</a></p>
+<p>Points: 407</p>
+<p># Comments: 146</p>
+]]></description><pubDate>Sun, 20 Jun 2021 17:39:21 +0000</pubDate><link>https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html</link><dc:creator>sprachspiel</dc:creator><comments>https://news.ycombinator.com/item?id=27572218</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27572218</guid></item><item><title><![CDATA[Hire-to-fire at Amazon India?]]></title><description><![CDATA[
+<p>Article URL: <a href="https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon">https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27569594">https://news.ycombinator.com/item?id=27569594</a></p>
+<p>Points: 924</p>
+<p># Comments: 527</p>
+]]></description><pubDate>Sun, 20 Jun 2021 13:09:51 +0000</pubDate><link>https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon</link><dc:creator>bobjones334</dc:creator><comments>https://news.ycombinator.com/item?id=27569594</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27569594</guid></item><item><title><![CDATA[Internet in a Box]]></title><description><![CDATA[
+<p>Article URL: <a href="http://internet-in-a-box.org/">http://internet-in-a-box.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27568332">https://news.ycombinator.com/item?id=27568332</a></p>
+<p>Points: 585</p>
+<p># Comments: 137</p>
+]]></description><pubDate>Sun, 20 Jun 2021 08:59:47 +0000</pubDate><link>http://internet-in-a-box.org/</link><dc:creator>thunderbong</dc:creator><comments>https://news.ycombinator.com/item?id=27568332</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27568332</guid></item><item><title><![CDATA[The “API Mandate” memo at Amazon]]></title><description><![CDATA[
+<p>Article URL: <a href="https://chrislaing.net/blog/the-memo/">https://chrislaing.net/blog/the-memo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27566676">https://news.ycombinator.com/item?id=27566676</a></p>
+<p>Points: 352</p>
+<p># Comments: 123</p>
+]]></description><pubDate>Sun, 20 Jun 2021 02:49:52 +0000</pubDate><link>https://chrislaing.net/blog/the-memo/</link><dc:creator>laingc</dc:creator><comments>https://news.ycombinator.com/item?id=27566676</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27566676</guid></item><item><title><![CDATA[How I Found a Vulnerability to Hack iCloud Accounts and How Apple Reacted to It]]></title><description><![CDATA[
+<p>Article URL: <a href="https://thezerohack.com/apple-vulnerability-bug-bounty">https://thezerohack.com/apple-vulnerability-bug-bounty</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27564236">https://news.ycombinator.com/item?id=27564236</a></p>
+<p>Points: 423</p>
+<p># Comments: 139</p>
+]]></description><pubDate>Sat, 19 Jun 2021 20:35:30 +0000</pubDate><link>https://thezerohack.com/apple-vulnerability-bug-bounty</link><dc:creator>alexcos</dc:creator><comments>https://news.ycombinator.com/item?id=27564236</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27564236</guid></item><item><title><![CDATA[Ivermectin for Prevention and Treatment of Covid-19 Infection]]></title><description><![CDATA[
+<p>Article URL: <a href="https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx">https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27562412">https://news.ycombinator.com/item?id=27562412</a></p>
+<p>Points: 324</p>
+<p># Comments: 585</p>
+]]></description><pubDate>Sat, 19 Jun 2021 17:26:52 +0000</pubDate><link>https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx</link><dc:creator>stephc_int13</dc:creator><comments>https://news.ycombinator.com/item?id=27562412</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27562412</guid></item><item><title><![CDATA[U.S. senators propose 25% tax credit for semiconductor manufacturing]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC">https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27561238">https://news.ycombinator.com/item?id=27561238</a></p>
+<p>Points: 365</p>
+<p># Comments: 373</p>
+]]></description><pubDate>Sat, 19 Jun 2021 15:20:40 +0000</pubDate><link>https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC</link><dc:creator>elorant</dc:creator><comments>https://news.ycombinator.com/item?id=27561238</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27561238</guid></item><item><title><![CDATA[Life as a public school teacher in the San Francisco Bay Area in 2021]]></title><description><![CDATA[
+<p>Article URL: <a href="http://adamcadre.ac/calendar/202105m.html">http://adamcadre.ac/calendar/202105m.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27560440">https://news.ycombinator.com/item?id=27560440</a></p>
+<p>Points: 572</p>
+<p># Comments: 713</p>
+]]></description><pubDate>Sat, 19 Jun 2021 13:49:58 +0000</pubDate><link>http://adamcadre.ac/calendar/202105m.html</link><dc:creator>rossvor</dc:creator><comments>https://news.ycombinator.com/item?id=27560440</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=27560440</guid></item></channel></rss>
